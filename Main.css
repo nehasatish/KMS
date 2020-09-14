@@ -1,0 +1,90 @@
+
+
+*{
+	margin:0;
+	padding:8px;
+	font-family: sans-serif;
+
+}
+
+body{
+	background: linear-gradient(to left, orange, yellow, white);
+	
+}
+
+.tm-header{
+	background: none;
+}
+.tm-container{
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.tm-logo{
+	float:left;
+}
+
+
+.tm-nav{
+	float:right;
+}
+
+.tm-nav ul li{
+display:inline;
+}
+
+.tm-nav ul li a{
+padding: 10px 20px;
+text-decoration: none;
+color: black;
+line-height: 80px;
+}
+
+.tm-nav ul li a:hover{
+color: #e80505;
+}
+
+
+
+
+/*/*
+Second part*/
+
+.tm-image{
+	padding-top: 10px;
+	padding-right: 20px;
+	max-width: 50%;
+	float: left;
+
+}
+
+.download{
+	padding-left: 180px;
+	padding-top: 20px;
+}
+
+p{
+	padding-bottom: 10px;
+}
+
+ h1,h2,h3{
+ 	margin-bottom: 6px;
+ }
+
+ ul{
+ 	margin-left: 20px;
+ 	margin-bottom: 10px;
+ }
+
+.tm-article{
+	padding-left: 100px;
+	font-style: italic;
+	font-size: 20px;
+}
+
+.tm-footer{
+	clear: both;
+	background: white;
+	text-align: center;
+}
+
