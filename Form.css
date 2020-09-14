@@ -1,0 +1,17 @@
+input[type="submit"]:hover{
+color: blue;
+}
+
+input[type="button"]{
+color:  green;
+}
+
+body{
+	background:yellow;
+}
+
+
+
+
+
+
